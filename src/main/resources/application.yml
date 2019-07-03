@@ -1,6 +1,7 @@
 server:
   port: 8080
 spring:
+  application:    name: universidad-agarcrom
   datasource:
     url: jdbc:mariadb://localhost:3306/universidad
     username: root
